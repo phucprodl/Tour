@@ -1,2 +1,0 @@
-# Tour
-SQL TOUR DU LICH
